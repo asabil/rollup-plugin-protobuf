@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-protobuf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rollup protobuf plugin",
   "main": "dist/rollup-plugin-protobuf.cjs.js",
   "jsnext:main": "dist/rollup-plugin-protobuf.es.js",
